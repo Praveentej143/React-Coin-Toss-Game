@@ -1,0 +1,36 @@
+/* Write your CSS here */
+.bg-container {
+  background: linear-gradient(to right, #f9d423, #e2a139);
+  height: 100vh;
+  padding: 4px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Roboto';
+  text-align: center;
+}
+.container {
+  background-color: #ffffff;
+
+  padding: 40px;
+  border-radius: 16px;
+}
+.heading {
+  color: #a35200;
+}
+.desc {
+  color: #334155;
+  font-weight: 500;
+}
+.coin-img {
+  width: 200px;
+}
+.btn {
+  background-color: #e2a139;
+  color: #a35200;
+  border: none;
+  padding: 12px 24px;
+  font-weight: bold;
+  border-radius: 10px;
+  cursor: pointer;
+}
